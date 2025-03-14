@@ -1,0 +1,6 @@
+Hands-on exercise
+In this exercise, you will:
+
+Practice debugging a scenario where there is an unstable input causing a build cache issue similar to the scenario demonstrated
+Use input normalization to address the issue
+Go to https://github.com/gradle/dpeuni-gradle-build-cache-deep-dive-unstable-inputs and follow the instructions.
