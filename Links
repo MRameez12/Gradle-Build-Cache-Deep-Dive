@@ -1,0 +1,9 @@
+Unstable inputs & input normalization
+In order to complete the course, watch at least 70% of video
+In this section, we will cover an example of how unstable inputs can cause build cache misses. You will learn how to use input normalization to address this.
+
+Relevant documentation links:
+
+Better reuse via input normalization
+Configuring input normalization
+
