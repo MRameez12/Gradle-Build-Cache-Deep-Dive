@@ -1,0 +1,6 @@
+Hands-on exercise
+In this exercise, you will:
+
+Practice debugging a scenario for a task that has no inputs or outputs declared
+Use build cache runtime API to declare inputs and outputs
+Go to https://github.com/gradle/dpeuni-gradle-build-cache-deep-dive-runtime-api and follow the instructions.
