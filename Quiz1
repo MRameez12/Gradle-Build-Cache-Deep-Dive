@@ -1,0 +1,41 @@
+
+How does Gradle build tool know what the inputs of a task are?
+
+Correct answer:
+4.	
+Properties have to be annotated as inputs in the task type
+
+Your answer:
+4.	
+Properties have to be annotated as inputs in the task type
+
+If you don't declare a property as an input, output or internal in the task type what happens?
+
+Correct answer:
+2.	
+You will get an error when trying to run a task of that task type
+
+Your answer:
+2.	
+You will get an error when trying to run a task of that task type
+
+What is input normalization?
+
+Correct answer:
+3.	
+Informing Gradle that a certain part of an input is not relevant to the behavior of the task and can be ignored with regards to cache key creation
+
+Your answer:
+3.	
+Informing Gradle that a certain part of an input is not relevant to the behavior of the task and can be ignored with regards to cache key creation
+
+What is the default normalization strategy for file inputs?
+
+Correct answer:
+1.	
+There isn't a default - you have to specify
+
+Your answer:
+1.	
+There isn't a default - you have to specify
+
