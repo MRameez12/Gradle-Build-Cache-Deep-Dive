@@ -1,0 +1,41 @@
+
+When debugging build cache issues how can you gain insights?
+
+Correct answer:
+4.	
+All of the above
+
+Your answer:
+4.	
+All of the above
+
+What is a consequence of unstable inputs of a task with regards to build caching?
+
+Correct answer:
+3.	
+The cache key for the task will keep changing from build to build, resulting in never getting cache hits
+
+Your answer:
+3.	
+The cache key for the task will keep changing from build to build, resulting in never getting cache hits
+
+What kind of build caching issue can occur as a result of copy-pasting task configuration without taking care
+
+Correct answer:
+1.	
+Tasks having overlapping outputs, hence Gradle will not use the build cache for these tasks to ensure correctness
+
+Your answer:
+1.	
+Tasks having overlapping outputs, hence Gradle will not use the build cache for these tasks to ensure correctness
+
+Which of the following can accidentally write to task input locations, causing build cache issues?
+
+Correct answer:
+4.	
+All of the above and more
+
+Your answer:
+4.	
+All of the above and more
+
